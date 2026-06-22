@@ -1,5 +1,5 @@
 ```
-cat << EOF > /etc/profile.discord
+cat << EOF > /etc/profile.github
 
 UTC+5
 I use [ Arch; NixOS ] btw
