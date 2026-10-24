@@ -12,3 +12,5 @@
 **![discord](https://discord.gg/myron67)**
 
 ![](123.gif)
+
+![](https://count.getloli.com/@veryUnique32Chars?theme=original-new&padding=6&offset=1&align=center&scale=1.0&pixelated=1&darkmode=auto)
